@@ -162,8 +162,7 @@ export const propiedades: Property[] = [
     precio: 'USD 620.000',
     precioValor: 620000,
     destacado: true,
-    imagen:
-      'https://images.unsplash.com/photo-1600585154340-0ef3c08dcdb6?auto=format&fit=crop&w=1200&q=80'
+    imagen: '/images/propiedad-1.svg'
   },
   {
     id: 2,
@@ -178,8 +177,7 @@ export const propiedades: Property[] = [
     precio: 'USD 420.000',
     precioValor: 420000,
     destacado: true,
-    imagen:
-      'https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80'
+    imagen: '/images/propiedad-2.svg'
   },
   {
     id: 3,
@@ -194,8 +192,7 @@ export const propiedades: Property[] = [
     precio: 'USD 240.000',
     precioValor: 240000,
     destacado: true,
-    imagen:
-      'https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80'
+    imagen: '/images/propiedad-3.svg'
   },
   {
     id: 4,
@@ -209,8 +206,7 @@ export const propiedades: Property[] = [
     superficie: 280,
     precio: 'USD 1.200.000',
     precioValor: 1200000,
-    imagen:
-      'https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80'
+    imagen: '/images/propiedad-4.svg'
   },
   {
     id: 5,
@@ -224,8 +220,7 @@ export const propiedades: Property[] = [
     superficie: 860,
     precio: 'USD 110.000',
     precioValor: 110000,
-    imagen:
-      'https://images.unsplash.com/photo-1543248939-ff40856f65d4?auto=format&fit=crop&w=1200&q=80'
+    imagen: '/images/propiedad-5.svg'
   },
   {
     id: 6,
@@ -239,8 +234,7 @@ export const propiedades: Property[] = [
     superficie: 135,
     precio: 'USD 198.000',
     precioValor: 198000,
-    imagen:
-      'https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=1200&q=80'
+    imagen: '/images/propiedad-6.svg'
   }
 ];
 
