@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e" />
+      <stop offset="100%" stop-color="#14b8a6" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#grad2)" rx="48" />
+  <g fill="rgba(15,118,110,0.25)">
+    <rect x="120" y="160" width="320" height="220" rx="24" />
+    <rect x="520" y="120" width="460" height="300" rx="36" />
+    <rect x="300" y="420" width="640" height="240" rx="32" />
+  </g>
+  <text x="80" y="360" fill="#ecfeff" font-size="72" font-family="'Segoe UI', sans-serif" font-weight="600">
+    Departamento premium
+  </text>
+  <text x="80" y="450" fill="#ccfbf1" font-size="40" font-family="'Segoe UI', sans-serif">
+    Vista al río y amenities exclusivos
+  </text>
+</svg>

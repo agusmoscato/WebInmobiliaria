@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="grad6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#be123c" />
+      <stop offset="100%" stop-color="#f43f5e" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#grad6)" rx="48" />
+  <g fill="rgba(255,255,255,0.18)">
+    <rect x="160" y="200" width="320" height="240" rx="32" />
+    <rect x="540" y="160" width="520" height="320" rx="40" />
+    <rect x="360" y="520" width="520" height="180" rx="36" />
+  </g>
+  <text x="80" y="360" fill="#ffe4e6" font-size="72" font-family="'Segoe UI', sans-serif" font-weight="600">
+    PH reciclado
+  </text>
+  <text x="80" y="450" fill="#fecdd3" font-size="40" font-family="'Segoe UI', sans-serif">
+    Patio propio y ambientes luminosos
+  </text>
+</svg>

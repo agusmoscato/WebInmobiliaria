@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#grad1)" rx="48" />
+  <g fill="rgba(255,255,255,0.2)">
+    <circle cx="220" cy="220" r="140" />
+    <circle cx="1020" cy="180" r="160" />
+    <circle cx="880" cy="620" r="200" />
+  </g>
+  <text x="80" y="360" fill="#ffffff" font-size="72" font-family="'Segoe UI', sans-serif" font-weight="600">
+    Residencia moderna
+  </text>
+  <text x="80" y="450" fill="#cbd5f5" font-size="40" font-family="'Segoe UI', sans-serif">
+    Jardín, pileta y ambientes amplios
+  </text>
+</svg>
